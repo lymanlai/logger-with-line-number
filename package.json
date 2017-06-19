@@ -1,0 +1,14 @@
+{
+  "name": "logger-with-line-number",
+  "version": "1.0.0",
+  "description": "Logger with line number and file name",
+  "main": "index.js",
+  "repository": "git@github.com:lymanlai/logger-with-line-number.git",
+  "author": "Lyman Lai <lyman.lai@yaha.me>",
+  "license": "MIT",
+  "dependencies": {
+    "colors": "^1.1.2",
+    "moment": "^2.18.1",
+    "tracer": "^0.8.9"
+  }
+}
